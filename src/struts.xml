@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+    
+   <package name="student" namespace="/student" extends="struts-default">
+       <!-- class写的是Spring中bean 的Id -->
+       <action name="*" class="studentAction" method="{1}">
+           <result name="to{1}">{1}.jsp</result>
+       </action>
+   </package>
+</struts>

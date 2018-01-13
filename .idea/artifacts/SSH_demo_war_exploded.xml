@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SSH-demo:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSH_demo_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SSH-demo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SSH-demo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Struts 2" />
+          <element id="library" level="project" name="Hibernate" />
+          <element id="library" level="project" name="Spring" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
