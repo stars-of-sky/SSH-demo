@@ -12,14 +12,17 @@ import java.util.List;
  * Date:2018/1/13
  */
 
-public class studentLAction implements ModelDriven{
+public class StudentAction implements ModelDriven<Student> {
     private UserService userService;
     //单列模式
-    private Student student=new Student();
+    private Student student = new Student();
 
-    public String allStudent(){
-        List<Student> students=userService.findAllStudent();
-        ServletActionContext.getRequest().setAttribute("students",students);
+    public String students() {
+
+        List<Student> students = userService.findAllStudent();
+
+        ServletActionContext.getRequest().setAttribute("students", students);
+
         return "tostudents";
     }
 

@@ -86,7 +86,7 @@ public class Student {
                 " name='" + name + '\'' +
                 ", sex='" + sex + '\'' +
                 ", age=" + age +
-                ", courses=" + courses +
+//                ", courses=" + courses +
                 '}'+"\n";
     }
 }

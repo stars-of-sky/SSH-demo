@@ -29,7 +29,7 @@ public void after() throws Exception {
 } 
 @Test
     public void testGetSessionFactory(){
-    ApplicationContext context= new ClassPathXmlApplicationContext("applicationContextl.xml");
+    ApplicationContext context= new ClassPathXmlApplicationContext("applicationContext.xml");
     SessionFactory sessionFactory= (SessionFactory) context.getBean("sessionFactory");
     Session session=sessionFactory.openSession();
     List<Student> students=session.createQuery("from Student").list();

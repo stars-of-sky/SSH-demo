@@ -12,7 +12,8 @@ import java.util.List;
  * Date:2018/1/13
  */
 
-public class UserDaoImpl implements UserDao {
+//extends HibernateTemplate
+public class UserDaoImpl  implements UserDao {
     private SessionFactory sessionFactory;
 
     //测试用

@@ -9,7 +9,7 @@
    <package name="student" namespace="/student" extends="struts-default">
        <!-- class写的是Spring中bean 的Id -->
        <action name="*" class="studentAction" method="{1}">
-           <result name="to{1}">{1}.jsp</result>
+           <result name="to{1}">/{1}.jsp</result>
        </action>
    </package>
 </struts>

@@ -12,6 +12,8 @@
       <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-web-4.2.6.RELEASE.jar!/" />
       <root url="file://$PROJECT_DIR$/../public_lib" />
       <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-tx-4.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-jdbc-4.2.6.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

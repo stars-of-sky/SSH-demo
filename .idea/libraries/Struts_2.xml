@@ -8,10 +8,10 @@
       <root url="jar://$PROJECT_DIR$/../public_lib/struts/commons-io-2.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/../public_lib/struts/commons-lang3-3.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/../public_lib/struts/freemarker-2.3.22.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/struts/javassist-3.11.0.GA.jar!/" />
       <root url="jar://$PROJECT_DIR$/../public_lib/struts/ognl-3.0.19.jar!/" />
       <root url="jar://$PROJECT_DIR$/../public_lib/struts/struts2-core-2.3.30.jar!/" />
       <root url="jar://$PROJECT_DIR$/../public_lib/struts/xwork-core-2.3.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/struts/struts2-spring-plugin-2.3.30.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
