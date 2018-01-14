@@ -13,7 +13,6 @@
       <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/spring-aop-4.2.6.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/spring-aspects-4.2.6.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/aopalliance-1.0.jar!/" />
-      <root url="file://$PROJECT_DIR$/../public_lib/spring/AOP" />
       <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/aspectjrt-1.8.7.jar!/" />
       <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/aspectjweaver-1.8.7.jar!/" />
       <root url="jar://$PROJECT_DIR$/../public_lib/taglibs-standard-impl-1.2.5.jar!/" />
@@ -22,6 +21,5 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-    <jarDirectory url="file://$PROJECT_DIR$/../public_lib/spring/AOP" recursive="false" />
   </library>
 </component>
