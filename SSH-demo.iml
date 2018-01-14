@@ -53,5 +53,6 @@
     <orderEntry type="library" name="Spring" level="project" />
     <orderEntry type="library" name="Hibernate" level="project" />
     <orderEntry type="library" name="Struts 2" level="project" />
+    <orderEntry type="library" name="public_lib" level="project" />
   </component>
 </module>
