@@ -21,7 +21,7 @@
 ">
 
 
-    <!--*****数据源：alibaba durid连接池*******-->
+<!--*****数据源：alibaba durid连接池*******-->
 
     <context:property-placeholder location="classpath:jdbc.properties"/>
 
@@ -56,7 +56,7 @@
         <property name="logAbandoned" value="${logAbandoned}"/>
     </bean>
 
-    <!--service层拿不到sessionFactory,由Spring来管理hibernate的sessionFactory-->
+<!--service层拿不到sessionFactory,由Spring来管理hibernate的sessionFactory-->
     <bean id="sessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
         <property name="dataSource" ref="dataSource"/>
         <property name="configLocations" value="classpath:hibernate.cfg.xml"/>
@@ -81,7 +81,7 @@
     <aop:config>
         <!--切入点-->
         <aop:pointcut id="txPointcut" expression="execution(* com.yrp.ssh.service.*.*(..))"/>
-        <!--<aop:advisor advice-ref="txAdvice" pointcut-ref="txPointcut"/>-->
+        <aop:advisor advice-ref="txAdvice" pointcut-ref="txPointcut"/>
     </aop:config>
 
     <!--<bean id="student" class="com.yrp.ssh.entity.Student"/>-->

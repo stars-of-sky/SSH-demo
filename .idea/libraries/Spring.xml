@@ -1,22 +1,23 @@
 <component name="libraryTable">
   <library name="Spring" type="spring">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-context-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/spring-aspects-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-orm-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/spring-aop-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-expression-4.2.6.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/../public_lib/spring/commons-logging-1.1.3.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-core-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-beans-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-web-4.2.6.RELEASE.jar!/" />
       <root url="file://$PROJECT_DIR$/../public_lib" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-tx-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/aopalliance-1.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring-jdbc-4.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-beans-4.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-context-4.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-core-4.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-expression-4.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-jdbc-4.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-orm-4.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-tx-4.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-web-4.2.6.RELEASE.jar!/" />
+      <root url="file://$PROJECT_DIR$/../public_lib/spring/AOP" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/spring-aop-4.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/spring-aspects-4.2.6.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
     <jarDirectory url="file://$PROJECT_DIR$/../public_lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../public_lib/spring/AOP" recursive="false" />
   </library>
 </component>
