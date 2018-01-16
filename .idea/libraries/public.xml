@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="public">
+    <CLASSES>
+      <root url="file://D:/框架/SSH集成/lib/public" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/框架/SSH集成/lib/public" recursive="false" />
+  </library>
+</component>
