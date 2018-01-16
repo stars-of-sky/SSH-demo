@@ -8,9 +8,10 @@
           <element id="module-output" name="SSH-demo" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Struts 2" />
-          <element id="library" level="project" name="Hibernate" />
-          <element id="library" level="project" name="Spring" />
+          <element id="library" level="project" name="hibernate" />
+          <element id="library" level="project" name="spring" />
+          <element id="library" level="project" name="struts" />
+          <element id="library" level="project" name="public" />
         </element>
       </element>
     </root>

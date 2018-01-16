@@ -1,17 +1,10 @@
 <component name="libraryTable">
-  <library name="Hibernate" type="hibernate">
+  <library name="hibernate">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../public_lib/hibernate/antlr-2.7.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/hibernate/dom4j-1.6.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/hibernate/hibernate-commons-annotations-4.0.2.Final.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/hibernate/hibernate-core-4.2.21.Final.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/hibernate/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/hibernate/javassist-3.18.1-GA.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/hibernate/jboss-logging-3.1.0.GA.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/hibernate/jboss-transaction-api_1.1_spec-1.0.1.Final.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="file://D:/框架/SSH集成/lib/hibernate" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <jarDirectory url="file://D:/框架/SSH集成/lib/hibernate" recursive="false" />
   </library>
 </component>

@@ -1,25 +1,10 @@
 <component name="libraryTable">
-  <library name="Spring" type="spring">
+  <library name="spring">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/commons-logging-1.1.3.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-beans-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-context-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-core-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-expression-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-jdbc-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-orm-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-tx-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/spring4.2.6/spring-web-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/spring-aop-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/spring-aspects-4.2.6.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/aopalliance-1.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/aspectjrt-1.8.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/spring/AOP/aspectjweaver-1.8.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/taglibs-standard-impl-1.2.5.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/druid-1.1.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../public_lib/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="file://D:/框架/SSH集成/lib/spring" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <jarDirectory url="file://D:/框架/SSH集成/lib/spring" recursive="false" />
   </library>
 </component>
