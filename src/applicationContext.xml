@@ -62,7 +62,7 @@
         <property name="configLocations" value="classpath:hibernate.cfg.xml"/>
     </bean>
 
-    <!--定义一个切面，（加事务）事务管理器 使用Spring的txManager-->
+    <!--定义一个切面，（加事务）事务管理器 使 用Spring的txManager-->
     <bean id="txManager" class="org.springframework.orm.hibernate4.HibernateTransactionManager">
         <property name="sessionFactory" ref="sessionFactory"/>
     </bean>
